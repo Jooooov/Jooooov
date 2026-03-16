@@ -24,12 +24,12 @@ I build AI pipelines, multi-agent systems, and local LLM workflows — mostly in
 
 | Project | What it does |
 |---------|-------------|
-| [wisdom-council](https://github.com/Jooooov/wisdom-council) | 8-agent debate system (Claude + Qwen) for business analysis — MCTS reasoning, RAG memory, FastAPI |
+| [WisdomCouncil](https://github.com/Jooooov/WisdomCouncil) | 8-agent debate system (Claude + Qwen) for business analysis — MCTS reasoning, RAG memory, FastAPI |
 | [MagicFinance](https://github.com/Jooooov/MagicFinance) | Reddit signal scoring → binary event forecasting → Markowitz portfolio optimisation |
-| [doomsday](https://github.com/Jooooov/doomsday) | Emergency preparedness platform — Doomsday Clock, LLM survival guides, family group checklists |
+| [DOOMsDay](https://github.com/Jooooov/DOOMsDay) | Emergency preparedness platform — Doomsday Clock, LLM survival guides, family group checklists |
 | [PEA](https://github.com/Jooooov/PEA) | Personal CLI launcher + prompt engineering reference toolbox |
-| [mypromptengineer](https://github.com/Jooooov/mypromptengineer) | Local LLM prompt generator with iterative refinement — runs 100% offline via MLX |
-| [wisdomofreddit](https://github.com/Jooooov/wisdomofreddit) | Extract + enrich Reddit posts with local AI — 3-layer architecture, DeepSeek-R1 |
+| [myPromptEngineer](https://github.com/Jooooov/myPromptEngineer) | Local LLM prompt generator with iterative refinement — runs 100% offline via MLX |
+| [WisdomofReddit](https://github.com/Jooooov/WisdomofReddit) | Extract + enrich Reddit posts with local AI — 3-layer architecture, DeepSeek-R1 |
 | [MundoBarbaroResearch](https://github.com/Jooooov/MundoBarbaroResearch) | Automated oncology research pipeline — 6 cancer types, PT-BR, multi-MCP orchestration |
 
 ---
